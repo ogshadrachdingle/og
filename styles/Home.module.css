@@ -1,0 +1,38 @@
+.container {
+  background: linear-gradient(to bottom, #0b1e33, #260033, #000);
+  color: white;
+  font-family: 'Bungee', sans-serif;
+  padding: 2rem;
+}
+.logo {
+  width: 120px;
+  margin-bottom: 1rem;
+}
+.header {
+  text-align: center;
+}
+.socials img {
+  width: 32px;
+  margin: 0 10px;
+}
+.chatbot {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #111;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 280px;
+}
+.chatbot h3 {
+  margin-top: 0;
+}
+.footer {
+  text-align: center;
+  margin-top: 4rem;
+  opacity: 0.7;
+}
+.footer img {
+  width: 80px;
+  margin-bottom: 0.5rem;
+}
